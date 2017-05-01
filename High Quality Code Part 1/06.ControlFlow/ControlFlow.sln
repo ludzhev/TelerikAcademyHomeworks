@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MasterChef", "MasterChef\01.MasterChef.csproj", "{EAACA01F-B086-4CED-9CCC-AA19592EACDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.IfStatements", "IfStatements\02.IfStatements.csproj", "{E96F0B50-4AE2-4B2E-8E37-4D4748D9B9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Loop", "Loop\03.Loop.csproj", "{0731BE87-FC9D-4661-A312-C2F492F2A80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAACA01F-B086-4CED-9CCC-AA19592EACDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAACA01F-B086-4CED-9CCC-AA19592EACDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAACA01F-B086-4CED-9CCC-AA19592EACDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAACA01F-B086-4CED-9CCC-AA19592EACDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96F0B50-4AE2-4B2E-8E37-4D4748D9B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96F0B50-4AE2-4B2E-8E37-4D4748D9B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96F0B50-4AE2-4B2E-8E37-4D4748D9B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96F0B50-4AE2-4B2E-8E37-4D4748D9B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0731BE87-FC9D-4661-A312-C2F492F2A80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0731BE87-FC9D-4661-A312-C2F492F2A80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0731BE87-FC9D-4661-A312-C2F492F2A80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0731BE87-FC9D-4661-A312-C2F492F2A80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
